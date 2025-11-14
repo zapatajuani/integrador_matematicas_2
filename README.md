@@ -3,10 +3,8 @@
 Este proyecto es la entrega final para la asignatura [NOMBRE DE LA ASIGNATURA]. El objetivo es demostrar la aplicación práctica de conceptos matemáticos fundamentales en el desarrollo de software.
 
 ## Información del Alumno
-* **Nombre:** `[TU NOMBRE COMPLETO]`
-* **DNI:** `[TU DNI]`
-* **Profesor:** `[NOMBRE DEL PROFESOR/A]`
-* **Fecha:** 13 de Noviembre de 2025
+* **Nombre:** `Juan Ignacio Zapata`
+* **DNI:** `39.961.719`
 
 ---
 
@@ -37,3 +35,4 @@ La toma de decisiones del algoritmo se basa en la evaluación de proposiciones l
 # (Es un nodo transitable) Y (NO ha sido visitado)
 if (nuevo_movimiento in valid_nodes) and (nuevo_movimiento not in visitados):
     # ... agregar a la lista
+
