@@ -12,7 +12,7 @@ Este proyecto es la entrega final para la asignatura [NOMBRE DE LA ASIGNATURA]. 
 
 Aquí puede encontrar el video explicativo donde se desarrolla la consigna, se explica la teoría y se demuestra el proyecto en vivo.
 
-**[LINK A TU VIDEO EN YOUTUBE, GOOGLE DRIVE, ETC.]**
+**[LINK A VIDEO EN YOUTUBE](https://youtu.be/8MTTv3Oo7GM)**
 
 ---
 
@@ -35,4 +35,5 @@ La toma de decisiones del algoritmo se basa en la evaluación de proposiciones l
 # (Es un nodo transitable) Y (NO ha sido visitado)
 if (nuevo_movimiento in valid_nodes) and (nuevo_movimiento not in visitados):
     # ... agregar a la lista
+
 
