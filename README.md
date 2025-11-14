@@ -1,6 +1,6 @@
 # Proyecto Final: Matemática y Programación - Resolución de Laberintos
 
-Este proyecto es la entrega final para la asignatura [NOMBRE DE LA ASIGNATURA]. El objetivo es demostrar la aplicación práctica de conceptos matemáticos fundamentales en el desarrollo de software.
+Este proyecto es la entrega final para la asignatura Matemáticas. El objetivo es demostrar la aplicación práctica de conceptos matemáticos fundamentales en el desarrollo de software.
 
 ## Información del Alumno
 * **Nombre:** `Juan Ignacio Zapata`
@@ -18,7 +18,7 @@ Aquí puede encontrar el video explicativo donde se desarrolla la consigna, se e
 
 ## 🧠 Demostración de las Unidades (Consigna)
 
-Este script resuelve laberintos utilizando algoritmos de búsqueda. Fue elegido porque **aúna en un solo problema** las 3 unidades matemáticas asignadas por mi DNI:
+Este script resuelve laberintos utilizando algoritmos de búsqueda. Fue elegido porque **aúna en un solo problema** las 3 unidades matemáticas asignadas para mí:
 
 ### 1. Unidad 6: Grafos y Árboles
 El laberinto se modela como un **Grafo**. Cada celda de camino (`0`) es un **nodo**, y las conexiones adyacentes (arriba, abajo, izquierda, derecha) son las **aristas**.
@@ -35,5 +35,6 @@ La toma de decisiones del algoritmo se basa en la evaluación de proposiciones l
 # (Es un nodo transitable) Y (NO ha sido visitado)
 if (nuevo_movimiento in valid_nodes) and (nuevo_movimiento not in visitados):
     # ... agregar a la lista
+
 
 
