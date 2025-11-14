@@ -1,0 +1,16 @@
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.idea/
+.vscode/
+.DS_Store
+env/
+env.bak/
+venv/
+venv.bak/
+ENV/
+ENV.bak/
+.ipynb_checkpoints/
